@@ -1,4 +1,4 @@
-## Network Convexity via Graph Embeddings
+## Network Convexity Algorithms via Graph Embeddings
 
 We recommend to run the notebooks in Google Colab.
 
